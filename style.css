@@ -1,1 +1,10 @@
-h1 {color: lightblue;}
+h1 {color: lightblue;
+   text-shadow: 7px 7px 10px teal;}
+p {
+    width: 20vw;
+    text-indent: 25px;
+    letter-spacing: 3px;
+    line-height: 5vh;
+    word-spacing: 1vw;
+    white-space: normal;
+}
